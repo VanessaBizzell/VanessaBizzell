@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Vanessa Bizzell</h1>
 <h3 align="center">A full stack software developer in Sheffield, UK.</h3>
 
-- 🔭 I’m currently working on [Soundwave - music sharing](https://github.com/VanessaBizzell/MusicApp)
+- 🔭 I’m currently working on [Soundwave - music sharing](https://github.com/VanessaBizzell/MusicApp) 
 
-- 🌱 I’m currently learning **Angular and Typescript**
+- 🌱 I’m currently learning **Go**
 
 - 🔭 I last worked on [Writing Prompts](https://github.com/VanessaBizzell/WritingAppFrontEnd)
 
